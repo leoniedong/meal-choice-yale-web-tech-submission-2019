@@ -1,3 +1,3 @@
-define meal_choice(meal="meat")
+define meal_choice (meal="meat")
   puts "#{meal}"
 end
